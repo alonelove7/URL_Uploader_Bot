@@ -12,8 +12,8 @@
         "url",
         "uploader"
     ],
-    "repository" : "https://github.com/Badsha010/URL_Uploader_Bot",
-    "success_url" : "https://t.me/URL_UploaderAJ_Bot",
+    "repository" : "https://github.com/CodeWithNeo/URL_Uploader_Bot",
+    "success_url" : "https://t.me/filetovidstreambot",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
